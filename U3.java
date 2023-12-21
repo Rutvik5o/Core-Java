@@ -43,7 +43,7 @@ class U3
 
                      System.out.println("Enter Amount-> ");
 
-                     double itemAmount=Obj.nextDouble();;
+                     double itemAmount=Obj.nextDouble();
 
                      System.out.println(name+" Total Charges=> "+itemAmount);
 
