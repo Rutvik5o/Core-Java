@@ -44,7 +44,9 @@ class U3
                      System.out.println("Enter Amount-> ");
 
                      double itemAmount=Obj.nextDouble();
-
+                 
+                     itemAmount=itemAmount+(itemAmount*12)/100;
+                 
                      System.out.println(name+" Total Charges=> "+itemAmount);
 
                      break;
