@@ -1,6 +1,6 @@
 //(5)-> Write a program to calculate the hypotenuse of right angled triangle
 //      when other sides of the trangle are given.
-//      (Hypotenuse-> square root (x*x + y*y) using command line argument
+//      (Hypotenuse-> square root (x*x + y*y) using command line argument)
 import java.util.Scanner;
 
 public class U5 {
