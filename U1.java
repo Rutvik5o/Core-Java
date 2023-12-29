@@ -1,4 +1,4 @@
-
+//(1)=> write a program to evulate simple interest of a given principle, rate and time.
 class U1
 {
     public static void main(String []args)
