@@ -1,3 +1,7 @@
+//(3)=> A car accessories shop assigns code 1 to seat covers,2 to steering wheel covers, 3 to car lighting and 4 for air purifiers. All other items have code 5 or more.
+//While selling the goods, a sales tax of 2% to seat covers, 3% for steering wheel covers,4% to car lighting ,2.5% to air purifiers and 1.2% for all other items is
+//charged.A list containing the product code and price is given for making a bill. Write a java program using switch statements to prepare a bill.
+
 import java.util.*;
 
 class U3
