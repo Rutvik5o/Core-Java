@@ -1,4 +1,4 @@
-//(7)=>Delcare an abstract class Vehicle with an abstract methods name numWheels(). Provide subclasses Car and Truck that
+//(7)=>Delcare an abstract class Vehicle with an abstract methods name numWheels(). Provide Subclasses Car and Truck that
 //each implements this methods. Create instance of these subclasses and demostrate the use of this method.
 
 abstract class Vehicle
@@ -31,7 +31,5 @@ class U27
 
         truck Obj2=new truck();
         Obj2.numWheels();
-
-
     }
 }
