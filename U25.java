@@ -1,5 +1,5 @@
 //(5)=> Write an Interface called numbers, with a methods in Process(int x,int y). Write a class called sum,which in the method Process finds the 
-//sum of two Numbers and return an int value.Write another class called Average,in which the Process methods finds the average of the two numbers and int.
+//sum of two Numbers and return an int value.Write another class called Average,in which the Process methods finds the average of the two numbers and return an int.
 import java.util.Scanner;
 
 interface Numbers
