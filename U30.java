@@ -1,6 +1,7 @@
-//(10)=>The abstract Vegetable class has four subclasses named cabbage,carrot and patato.Write an application that demostrates how to establish this class
-//hierarchy.Declare one instance variable of type string that indicates the color of vegetable. Create and display instances of these object. Override the toString() 
+//(10)=>The abstract Vegetable class has four subclasses named cabbage, carrot andpotato. Write an application that demonstrates how to establish this class
+//hierarchy. Declare one instance variable of type string that indicates the color ofa vegetable. Create and display instances of these object. Override the toString()
 //method of object to return a string with the name of the vegetable and its color.
+
 
 abstract class Vegetable
 {
