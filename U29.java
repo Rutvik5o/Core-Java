@@ -1,4 +1,4 @@
-//(9)=> Create calss calculation with an abstract method area(). Create Rectangle 
+//(9)=> Create Class calculation with an abstract method area(). Create Rectangle 
 // and Triangle subclasses of calculation and find area of rectangle and triangle.
 
 abstract class calculation
