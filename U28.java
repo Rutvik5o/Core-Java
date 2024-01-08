@@ -1,7 +1,7 @@
-//(8)=>Write an interface called Exam with a method Pass(int makr) that returns a Boolean. Write another inteface called Classify with a method Dvision (int 
-//average). which returns a string. Write a class called Result whch implements both exam and Classify. The pass method should reThe division method must return "First"
-//wen the parametera verage is 60 or more, "second" when average is 50 or more but below 60,"no divison" when average is less than 50.
-
+//(8)=>Write an interface called Exam with a method Pass(int mark) that returns aBoolean. Write another interface called Classify with a method Division(int
+//average) which returns a string. Write a class called Result which implementsboth Exam and Classify. The pass method should return true if the marks is
+//greater than or equal to 35 else false. The division method must return “First”when the parameter average is 60 or more, “second” when average is 50 or
+//more but below 60, “no division” when average is less than 50. 
 interface exam
 {
     boolean pass(int marks);
