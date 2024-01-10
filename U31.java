@@ -8,7 +8,7 @@ public class U31 //PackClass
 {
     public int findmax(int a,int b,int c)
     {
-        int max = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
+        int max = (a>b)?((a>c)?a:c) : ((b>c)?b:c);
 
         return max;
 
