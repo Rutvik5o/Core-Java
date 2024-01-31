@@ -1,7 +1,9 @@
 //(7)=>Write an applicateion that accpects marks of three different subject from user.
 //Marks should be between 0 to 100, if marks of any of the subject is not belong
-//to this range, generate custom exception out of RangeException. If marks of each subjects are greater than or equal or 40 then display message "PASS" along
-//with percentange, otherwise display message "FAIL". Also write exception handling code to catch all the possible runtime exceptions likely to be generated 
+//to this range, generate custom exception out of RangeException. If marks of each 
+//subjects are greater than or equal or 40 then display message "PASS" along
+//with percentange, otherwise display message "FAIL". Also write exception handling
+//code to catch all the possible runtime exceptions likely to be generated 
 //int the program.
 
 
