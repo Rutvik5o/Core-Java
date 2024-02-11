@@ -101,7 +101,7 @@ class thread4 extends Thread
     }
 }
 
-class TI2 
+class U42 
 {
     public static void main(String []args)
     {
