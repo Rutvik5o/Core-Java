@@ -55,7 +55,7 @@ class thread2 implements Runnable
 }
 }
 
-class TI3
+class U43
 {
     public static void main(String []args)
     {
